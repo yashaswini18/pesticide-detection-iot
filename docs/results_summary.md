@@ -1,5 +1,27 @@
 # Results & Discussion
 
+## Project File Structure
+
+```
+pesticide-detection-iot/
+│
+├── README.md                        ✅ Done (Step 0)
+│
+├── src/
+│   └── pesticide_detection.ino      ✅ Done (Step 1)
+│
+├── hardware/
+│   └── connections.md               ✅ Done (Step 2)
+│
+├── libraries.md                     ✅ Done (Step 3)
+│
+└── docs/
+    ├── sensor_readings.csv          ✅ Done (Step 4)
+    └── results_summary.md           ✅ Done (Step 5)
+```
+
+---
+
 ## System Performance Summary
 
 | Metric | Result |

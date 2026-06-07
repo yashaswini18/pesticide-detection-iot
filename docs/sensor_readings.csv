@@ -1,0 +1,13 @@
+Serial_No,Fruit_Vegetable,Gas_Sensor_Reading_ppm,DHT11_Temperature_C,DHT11_Humidity_percent,Pesticide_Percentage,Pesticide_Status,Classification
+1,Apple,0.8,25,60,12.5,Safe,Safe Box
+2,Tomato,2.5,28,65,38.2,Contaminated,Reject Box
+3,Cabbage,1.0,26,62,15.3,Safe,Safe Box
+4,Grapes,3.2,27,70,48.7,Contaminated,Reject Box
+5,Spinach,2.0,24,58,35.1,Contaminated,Reject Box
+6,Mango,0.5,29,55,8.4,Safe,Safe Box
+7,Potato,1.5,22,50,22.6,Safe,Safe Box
+8,Carrot,2.8,23,55,42.3,Contaminated,Reject Box
+9,Orange,0.6,26,58,10.2,Safe,Safe Box
+10,Banana,2.1,27,63,36.8,Contaminated,Reject Box
+11,Cauliflower,0.9,25,61,14.7,Safe,Safe Box
+12,Brinjal,3.5,28,68,57.1,Contaminated,Reject Box

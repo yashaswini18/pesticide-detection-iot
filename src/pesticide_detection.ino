@@ -4,9 +4,6 @@
  * Department of Electronics & Communication Engineering
  * 
  * Authors:
- *   Suraj Pawar       (1AM21EC086)
- *   Syed Al Hameed    (1AM21EC088)
- *   Varsha B R        (1AM21EC095)
  *   Yashaswini R      (1AM21EC101)
  * 
  * Guide: Dr. R Aruna, Associate Professor
